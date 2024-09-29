@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TTT.Server": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}
